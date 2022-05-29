@@ -1,6 +1,6 @@
 package part5.Thread;
 
-//main스레드가 끝나쓸 때, sub스레드도 종료 되도록
+//main스레드가 끝났을 때, sub스레드도 종료 되도록
 
 public class Ex6Program {
 
